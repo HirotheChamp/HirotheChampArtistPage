@@ -1,0 +1,42 @@
+
+
+/* header menu changes */
+.site-header-menu ul li a{
+	font-size: 90%;
+}
+
+/* changing footer background color */
+#colophon > aside > div > div {
+	background-color: #000000;
+color: #000000;
+	
+}
+
+#colophon .widget-area, body.boxed-layout, .mejs-controls .mejs-time-rail .mejs-time-loaded, .section:nth-child(odd), #header-top #header-top-search-wrapper.is-open .menu-inside-wrapper, .section:nth-child(even) .events-content-wrapper .hentry-inner, .color-scheme-wedding .section:nth-child(even).hero-section .content-wrapper, .section:nth-child(even) + #contact-section .section-content-wrapper, .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-total, .mejs-controls .mejs-time-rail .mejs-time-total, .sidebar .widget-wrap, #primary-search-wrapper .menu-inside-wrapper, .menu-inside-wrapper, .mobile-social-search, #footer-newsletter, mark, ins, .custom-header, ul.tabs.wc-tabs li.active a, .woocommerce-Tabs-panel, .shop_table thead th, ul.wc_payment_methods.payment_methods.methods li, .comment-respond, .widget_shopping_cart, pre, code, .widget .ui-tabs .ui-tabs-panel, select, .select2-container--default .select2-selection--single, input[type="text"], input[type="email"], input[type="url"], input[type="password"], input[type="search"], input[type="number"], input[type="tel"], input[type="range"], input[type="date"], input[type="month"], input[type="week"], input[type="time"], input[type="datetime"], input[type="datetime-local"], input[type="color"], textarea, .header-top-bar:after, .comment-list .comment .comment-container, .section:nth-child(even) + .promotion-section .entry-container-frame:after, .wp-block-pullquote.is-style-solid-color, figure.wp-block-table.is-style-stripes tbody tr:nth-child(2n+1), .wp-block-pullquote.is-style-solid-color, figure.wp-block-table.is-style-stripes tbody tr:nth-child(2n+1) {
+    background-color: #000000;
+}
+
+
+/* About me paragraph spacing */
+#post-31 > div > p:nth-child(3) {
+	padding-top: 30px;
+}
+
+#post-31 > div > p:nth-child(5) {
+	padding-top: 30px;
+}
+
+#post-106 > div > div.is-layout-flex.wp-block-buttons {
+	padding-top: 30px;
+}
+
+/* Tagline */
+#masthead > div > div > div.site-branding > div > p.site-description {
+	display: none;
+}
+
+
+/* Contact Us Form */
+#nf-form-2-cont > div > div.nf-form-layout > form > div > div.nf-before-form-content > nf-section > div {
+	text-align: center;
+}
