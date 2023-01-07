@@ -1,7 +1,7 @@
 <h1 align="center">Hiro the Champ Artist Page</h1>
 
 
-<h3>Artist website including music and merchandise </h3>
+<h3 align="center">Artist website including music and merchandise </h3>
 
 <hr></hr>
 
