@@ -34,8 +34,8 @@ A website showcasing me and some of my work. This project is simply a personal w
 
 ## Technologies Used
 
-* SASS -- used for styling the entire project
-* HTML, CSS -- used to create front end form creation script
+* Wordpress -- Organized webpages customized based off of plugins and custom CSS
+* CSS -- used to create front end form creation script
 
 
 
@@ -52,7 +52,7 @@ A website showcasing me and some of my work. This project is simply a personal w
 
 ## Room for Improvement
 
-* Code will be tested more thoroughly to prevent mistakes and test for bugs
+* Incorporate PHP for more unique ideas
 
 
 
@@ -61,7 +61,7 @@ A website showcasing me and some of my work. This project is simply a personal w
 
 ## Acknowledgement
 
-This project idea came to mind since I did not have a website to showcase my work. I wanted a website with mobile functionality as well.
+I am a musical artist and wanted to create a website for fans to go to. 
 
 <hr></hr>
 
