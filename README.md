@@ -20,7 +20,7 @@
 <hr></hr>
 
 ## Background
-A website showcasing me and some of my work. This project is simply a personal website regarding who I am and what I do. Included are coding projects mainly done using the React library.  
+A website revolving around the musical artist Hiro the Champ. It contains sections you would find on a typical musical artist page including: Merchandise, a biography, and a landing page.
 
 
 
