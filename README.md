@@ -61,7 +61,7 @@ A website revolving around the musical artist Hiro the Champ. It contains sectio
 
 ## Acknowledgement
 
-I am a musical artist and wanted to create a website for fans to go to. 
+I looked up various musical artists' websites to get an idea on how to start the project.
 
 <hr></hr>
 
